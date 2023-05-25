@@ -1,0 +1,16 @@
+R = rain+ rain sound
+F = rain stop + rain sound stop
+N = night
+D = Day
+P = Pause
+M = Moving
+T = Train sound
+A = Plane sound
+C = Car sound
+
+Mouse left click = speed increase
+Mouse right click = speed decrease
+
+
+S = Start
+E = Exit
